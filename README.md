@@ -33,3 +33,8 @@
 이를 구현한다면 아래와 같은 클래스가 될 것 입니다.(꼭 따라하실 필요는 없고 참조만 하세요)
 
 ![image](https://github.com/user-attachments/assets/cc30e52c-c05d-4f9a-bd6f-e977c2cfe3c6)
+
+
+## 결과
+![image](https://github.com/user-attachments/assets/7382efbc-7db9-447c-ab96-4a452f003f79)
+
